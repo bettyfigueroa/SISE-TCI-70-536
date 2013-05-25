@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TipoDocumentoIdentidad>
+  <Row Codigo="1" Descripcion="DNI" MaximoValor="8" LongitudFija="True" />
+  <Row Codigo="2" Descripcion="CARNET DE EXTRANJERIA" MaximoValor="15" LongitudFija="False" />
+  <Row Codigo="3" Descripcion="RUC" MaximoValor="11" LongitudFija ="True" />
+</TipoDocumentoIdentidad>

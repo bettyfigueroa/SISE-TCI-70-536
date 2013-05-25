@@ -1,0 +1,10 @@
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\bin\Debug\SISE.SPE.Security.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\bin\Debug\SISE.SPE.Security.pdb
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\bin\Debug\SISE.SPE.Security.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\ResolveAssemblyReference.cache
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.Resources.resources
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\GenerateResource.read.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\GenerateResource.write.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.pdb

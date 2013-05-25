@@ -1,0 +1,16 @@
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.DAO.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.DAO.pdb
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.DAO.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\ResolveAssemblyReference.cache
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\SISE.SPE.DAO.Resources.resources
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\GenerateResource.read.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\GenerateResource.write.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\SISE.SPE.DAO.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\SISE.SPE.DAO.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\obj\Debug\SISE.SPE.DAO.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.BE.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.Util.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.BE.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.BE.xml
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.Util.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.DAO\bin\Debug\SISE.SPE.Util.xml

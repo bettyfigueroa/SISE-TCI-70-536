@@ -1,0 +1,32 @@
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.UI.exe
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.UI.pdb
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.UI.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.WinBase.resources
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.Resources.resources
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.WinPersonal.resources
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.exe
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.pdb
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.Controls.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.Controls.pdb
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.Controls.xml
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.WinMDI.resources
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.WinBuscar.resources
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.BE.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.BL.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.Util.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.DAO.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.BE.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.BE.xml
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.BL.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.BL.xml
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.Util.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.Util.xml
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.DAO.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.UI\bin\Debug\SISE.SPE.DAO.xml
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.exe
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.xml
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.UI\obj\x86\Debug\SISE.SPE.UI.pdb

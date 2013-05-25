@@ -1,0 +1,13 @@
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\bin\Debug\SISE.SPE.BE.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\bin\Debug\SISE.SPE.BE.pdb
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\bin\Debug\SISE.SPE.BE.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\ResolveAssemblyReference.cache
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\SISE.SPE.BE.Resources.resources
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\GenerateResource.read.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\GenerateResource.write.1.tlog
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\SISE.SPE.BE.dll
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\SISE.SPE.BE.xml
+c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\obj\Debug\SISE.SPE.BE.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\bin\Debug\SISE.SPE.Util.dll
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\bin\Debug\SISE.SPE.Util.pdb
+C:\Users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.BE\bin\Debug\SISE.SPE.Util.xml
