@@ -28,7 +28,8 @@ Partial Class WinBuscar
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(761, 462)
+        Me.BackgroundImage = Global.SISE.SPE.UI.My.Resources.Resources.Logo
+        Me.ClientSize = New System.Drawing.Size(679, 436)
         Me.Name = "WinBuscar"
         Me.Text = "WinBuscar"
         Me.ResumeLayout(False)

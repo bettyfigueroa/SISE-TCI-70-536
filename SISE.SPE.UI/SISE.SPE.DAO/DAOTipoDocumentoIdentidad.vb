@@ -10,7 +10,8 @@ Public Class DAOTipoDocumentoIdentidad
         Dim elements As IEnumerable(Of XElement) = lTdocXml.Elements("TipoDocumentoIdentidad").Elements()
         Dim list As New GenericList(Of ETipoDocumentoIdentidad)(New ETipoDocumentoIdentidad(String.Empty, "(SELECCIONE)"))
         For Each item As XElement In elements
-            list.Add(New ETipoDocumentoIdentidad(item.Attribute("Codigo").Value, item.Attribute("Descripcion").Value, item.Attribute("MaximoValor").Value))
+            list.Add(New ETipoDocumentoIdentidad(item.Attribute("Codigo").Value, item.Attribute("Descripcion").Value,
+                                                 item.Attribute("MaximoValor").Value, item.Attribute("LongitudFija").Value))
         Next
         Return list
     End Function

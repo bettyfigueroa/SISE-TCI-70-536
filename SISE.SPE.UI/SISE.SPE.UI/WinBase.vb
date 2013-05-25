@@ -15,7 +15,7 @@ Public Class WinBase
     Private Const _copyRight As String = "Copyright © Instituto SISE"
     Private _font As Font = New Font("Arial", 10, FontStyle.Bold)
     Private _textColorHeader As Color = Color.White
-    Private _backgroundColorHeader As Color = Color.FromArgb(81, 180, 72)
+    Private _backgroundColorHeader As Color = Color.FromArgb(157, 2, 0)
     Private _borderColor As Color = Color.FromArgb(19, 101, 51)
 
 #Region "Properties"
@@ -88,12 +88,12 @@ Public Class WinBase
 
 
         Dim rec As Rectangle = Me.DisplayRectangle
-        rec.Height = rec.Height - (rec.Height - 65)
+        rec.Height = rec.Height - (rec.Height - 60)
         rec.Width = rec.Width - 2
         e.Graphics.FillRectangle(New SolidBrush(_backgroundColorHeader), rec)
         e.Graphics.DrawRectangle(New Pen(_borderColor), rec)
        
-        e.Graphics.DrawImageUnscaled(My.Resources.logo, New Rectangle(Me.Width - 167, 2, Me.Width, 55))
+        e.Graphics.DrawImageUnscaled(My.Resources.Logo, New Rectangle(Me.Width - 80, 2, Me.Width, 40))
         Dim strFormat As New StringFormat(StringFormatFlags.NoWrap)
         e.Graphics.DrawString(_titulo, FontHeader, New SolidBrush(_textColorHeader), New PointF(10, 10), strFormat)
         e.Graphics.DrawString(_descripcion, FontHeader, New SolidBrush(_textColorHeader), New PointF(10, 35), strFormat)
@@ -101,7 +101,7 @@ Public Class WinBase
         If Me.DesignMode Then
             Dim strFormatCopyright As New StringFormat(StringFormatFlags.DirectionRightToLeft Or StringFormatFlags.DirectionVertical)
             strFormatCopyright.Alignment = StringAlignment.Far
-            e.Graphics.DrawString(_copyRight, FontHeader, New SolidBrush(Color.FromArgb(10, 125, 61)), Me.ClientRectangle, strFormatCopyright)
+            e.Graphics.DrawString(_copyRight, FontHeader, New SolidBrush(Color.FromArgb(215, 37, 30)), Me.ClientRectangle, strFormatCopyright)
         End If
     End Sub
 
@@ -111,9 +111,11 @@ Public Class WinBase
     End Sub
 
     Private Sub WinBase_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.WindowState = FormWindowState.Maximized
         Me.OnBaseSave = New DelegateSave(AddressOf Save)
         Me.OnBaseSearch = New DelegateSearch(AddressOf Search)
         Me.OnBaseDelete = New DelegateDelete(AddressOf Delete)
+
     End Sub
 
 

@@ -43,13 +43,15 @@ Public Class WinPersonal
             EsValido = True
         End If
 
-        Using documento As ETipoDocumentoIdentidad = DirectCast(cboTipDocumento.SelectedItem, ETipoDocumentoIdentidad)
-            If txtNumDocumento.TextLength > documento.MaximoValor Then
-                ErrMessage.SetError(txtNumDocumento, String.Format("El tipo de documento {0} solo puede tener {1} caracteres", documento.Descripcion, documento.MaximoValor))
-                EsValido = True
-            End If
-        End Using
-
+        Dim documento As ETipoDocumentoIdentidad = DirectCast(cboTipDocumento.SelectedItem, ETipoDocumentoIdentidad)
+        If txtNumDocumento.TextLength > documento.MaximoValor And documento.LongitudFija = False Then
+            ErrMessage.SetError(txtNumDocumento, String.Format("El documento {0} debe tener un número menor o igual a {1} caractere(s)", documento.Descripcion, documento.MaximoValor))
+            EsValido = True
+        ElseIf txtNumDocumento.TextLength <> documento.MaximoValor And documento.LongitudFija = True Then
+            ErrMessage.SetError(txtNumDocumento, String.Format("El documento {0} debe tener {1} caractere(s)", documento.Descripcion, documento.MaximoValor))
+            EsValido = True
+        End If
+ 
         If Not EsValido Then
 
         End If

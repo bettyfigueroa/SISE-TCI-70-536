@@ -57,6 +57,13 @@
         _maximoValor = pMaximoValor
     End Sub
 
+    Public Sub New(ByVal pCodigo As String, ByVal pDescripcion As String, ByVal pMaximoValor As Integer, ByVal pLongitudFija As Boolean)
+        _codigo = pCodigo
+        _descripcion = pDescripcion
+        _maximoValor = pMaximoValor
+        _longitudFija = pLongitudFija
+    End Sub
+
 #Region "IDisposable Support"
     Private disposedValue As Boolean ' To detect redundant calls
 

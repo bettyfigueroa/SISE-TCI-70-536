@@ -8,3 +8,13 @@ c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Secur
 c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.dll
 c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.xml
 c:\users\milton\documents\visual studio 2010\Projects\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.pdb
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\bin\Debug\SISE.SPE.Security.dll
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\bin\Debug\SISE.SPE.Security.pdb
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\bin\Debug\SISE.SPE.Security.xml
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.Resources.resources
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\GenerateResource.read.1.tlog
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\GenerateResource.write.1.tlog
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.dll
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.xml
+E:\REPOSITORIO SISE\SISE-TCI-70-536\SISE.SPE.UI\SISE.SPE.Security\obj\Debug\SISE.SPE.Security.pdb
