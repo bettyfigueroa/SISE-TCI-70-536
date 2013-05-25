@@ -1,4 +1,5 @@
-﻿Public Class ETipoDocumentoIdentidad
+﻿<DebuggerDisplay("Codigo={_codigo}, Descripcion={_Descripcion}, MaximoValor={_maximoValor}, LongitudFija={_longitudFija}")> _
+Public Class ETipoDocumentoIdentidad
     Implements IDisposable
 
     Private _codigo As String = String.Empty
